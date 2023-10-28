@@ -1,0 +1,5 @@
+com\provider\TestCases\NewUserRegistration.class
+com\provider\utilities\ReadConfig.class
+com\provider\pageObject\SignupPage.class
+com\provider\TestCases\BaseClass.class
+com\provider\pageObject\New_User_Registration.class
